@@ -1,4 +1,4 @@
-# incomeTaxCalculator
+# income_tax_calculator
 Income tax is banded, so you pay different percentages of income for a given amount.
 
 This is a calculator that tells you how much tax you'll pay for a given income.
